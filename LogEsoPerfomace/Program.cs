@@ -4,4 +4,5 @@ using LogEsoPerfomace;
 Console.WriteLine("Hello, World!");
 GeraArquivo geraArquivo = new GeraArquivo();
 geraArquivo.gerarArquivo();
+
 geraArquivo.LerArquivo();

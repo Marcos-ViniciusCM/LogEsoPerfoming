@@ -9,7 +9,7 @@ namespace LogEsoPerfomace
     public struct DadosContabilizados
     {
 
-       
+        public int key; 
         public double TotalBuy;
         public double TotalSell;
         public double TotalProfit;
