@@ -12,7 +12,6 @@ namespace LogEsoPerfomace
         public int key; 
         public double TotalBuy;
         public double TotalSell;
-        public double TotalProfit;
         public long Count;
     
 
