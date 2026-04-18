@@ -3,7 +3,7 @@
 Este projeto é um estudo de caso sobre **performance extrema** e **gerenciamento de memória** em C#. O objetivo foi criar um motor de processamento capaz de ler e analisar arquivos massivos (3.5GB+) com **alocação zero no Heap**, garantindo que o Garbage Collector (GC) permaneça ocioso durante toda a operação.
 
 ## 📊 Performance Benchmark
-Os testes foram realizados com um arquivo gerado sinteticamente com **80.902.939 linhas**.
+Os testes foram realizados com um arquivo gerado sinteticamente com **88.900.939 linhas**. 
 
 | Operação | Volume | Tempo |
 | :--- | :--- | :--- |
