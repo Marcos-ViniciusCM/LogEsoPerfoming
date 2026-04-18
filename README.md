@@ -10,6 +10,11 @@ Os testes foram realizados com um arquivo gerado sinteticamente com **88.900.939
 | **Escrita (Geração)** | 3.5 GB | ~112s |
 | **Leitura & Análise** | 3.5 GB | **2.5s** |
 | **Uso de Heap** | - | **Praticamente 0** |
+<img width="1886" height="910" alt="Perfomace" src="https://github.com/user-attachments/assets/a803353a-e998-48a6-a79a-1010e22bc78d" />
+
+<img width="1911" height="317" alt="ItensComprado" src="https://github.com/user-attachments/assets/6480d528-5d35-4d78-9ad9-a5d036f08f7a" />
+
+
 
 ---
 
